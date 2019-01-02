@@ -1,0 +1,15 @@
+{
+  "name": "sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hehehe"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^2.0.0",
+    "request": "^2.87.0"
+  }
+}
